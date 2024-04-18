@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+
+body {
+    margin: 0px;
+    font-family: Geologica;
+}
+
+.title {
+    margin-top: 20vh;
+    font-size: 8vw;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.info {
+    margin-top: 0px;
+    font-size: 4vw;
+    color: gray;
+    font-weight: 100;
+    text-align: center;
+}
+
+.button {
+    background-color: #1c50fa;
+    width: 30vw;
+    height: 5vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 48px;
+    transition: 0.8s;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+}
+
+.button:hover {
+    background-color: #0030cf;
+}

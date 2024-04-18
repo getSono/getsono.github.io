@@ -1,0 +1,104 @@
+@media only screen and (max-width: 1350px) {
+    .header-right {
+        width: 40%;
+        margin-left: 55%;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .header-right {
+        width: 50%;
+        margin-left: 45%;
+    }
+
+    .header-button {
+        font-size: 1.3vw;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .header-right {
+        width: 65%;
+        margin-left: 30%;
+    }
+
+    .header-button {
+        font-size: 1.7vw;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .header-right {
+        width: 75%;
+        margin-left: 20%;
+    }
+
+    .header-button {
+        font-size: 1.8vw;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .header-right {
+        width: 85%;
+        margin-left: 10%;
+    }
+
+    .header-button {
+        font-size: 2.2vw;
+    }
+    .change-theme {
+        margin-left: 7%;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .header-right {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .header-button {
+        font-size: 2.4vw;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .header-button {
+        font-size: 2.7vw;
+        height: 3.5vh;
+        line-height: 3.5vh;
+    }
+    #subscribe {
+        margin-left: 1%;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .change-theme {
+        margin-left: 5%;
+    }
+    .header-button {
+        height: 3vh;
+        line-height: 3vh;
+    }
+    .header-img {
+        height: 70%;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .change-theme {
+        margin-left: 3%;
+    }
+    .header-button {
+        height: 3vh;
+        line-height: 3vh;
+    }
+    .header-img {
+        height: 70%;
+    }
+    #themeSwitcher {
+        font-size: 7vw;
+    }
+}

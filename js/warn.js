@@ -1,0 +1,5 @@
+console.log("Wenn du diese Nachricht siehst, hast du wohl deine Browser Konsole geöffnet.")
+console.log("Wir empfehlen NICHT Code hier einzufügen, da es deine Sicherheit gefährden könnte.")
+console.log("Zwar sind keine persöhnlichen Daten für diese Website als ein Cookie gespeichert, da es kein Account System hier gibt.")
+console.log("Dennoch wissen wir nicht ob es Exploits gibt, welche es Angreifern erlauben persöhnliche Daten zu stehlen ohne auf einer Website zu seien, welche wichtige Daten als Cookies speichert.")
+console.log("#StaySafe")
