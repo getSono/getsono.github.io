@@ -1,3 +1,3 @@
 function copy() {
-    navigator.clipboard.writeText("EinfachGustaf.live");
+    navigator.clipboard.writeText("node2.craftsblock.eu:25583");
 }
