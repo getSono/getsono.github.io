@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(90deg, rgba(97,89,230,1) 0%, rgba(0,137,227,1) 60%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(72, 48, 196) 0%, rgba(0,137,227,1) 60%, rgba(0,212,255,1) 100%);
     color: white;
     text-align: center;
     font-family: Geologica;
