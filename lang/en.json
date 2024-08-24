@@ -1,0 +1,52 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "gamemodes": "Gamemodes",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "SonoNetwork",
+        "description": "Join the adventure in our amazing Minecraft world!",
+        "joinNow": "Join Now"
+    },
+    "features": {
+        "gameplay": "Exciting Gameplay",
+        "gameplayDesc": "Experience thrilling adventures and creative building.",
+        "community": "Friendly Community",
+        "communityDesc": "Join a welcoming community of Minecraft enthusiasts.",
+        "performance": "High Performance",
+        "performanceDesc": "Enjoy smooth gameplay with our optimized server infrastructure."
+    },
+    "about": {
+        "title": "About Us",
+        "description": "We are passionate Minecraft players dedicated to creating the best server experience for our community.",
+        "historyTitle": "Our History",
+        "history2020": "Opened a Aternos server for friends.",
+        "history2021": "We buyed a server at G-Portal",
+        "history2022": "Nico founder of MC Friens got the idea to open a Minecraft server.",
+        "history2023": "The begin of TeamFive.",
+        "history2024": "We named our server into SonoNetwork.",
+        "missionTitle": "Our Mission",
+        "missionDesc": "To provide a fun, safe, and creative environment for Minecraft players from all around the world."
+    },
+    "gamemodes": {
+        "title": "Our Gamemodes",
+        "survival": "Sono Attack",
+        "survivalDesc": "Classic Minecraft survival experience with a few twists.",
+        "creative": "???",
+        "creativeDesc": "Comming Soon!",
+        "minigames": "???",
+        "minigamesDesc": "Comming Soon!"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "name": "Name:",
+        "email": "Email:",
+        "message": "Message:",
+        "send": "Send"
+    },
+    "footer": {
+        "copyright": "© 2024 SonoNetwork. All rights reserved."
+    }
+}

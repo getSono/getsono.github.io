@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Epic Minecraft Server</title>
+    <title>Contact - Epic Minecraft Server</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -33,28 +33,20 @@
     </header>
 
     <main>
-        <section class="hero">
-            <h1 data-lang="hero.title">Epic Minecraft Server</h1>
-            <p data-lang="hero.description">Join the adventure in our amazing Minecraft world!</p>
-            <button data-lang="hero.joinNow">Join Now</button>
-        </section>
+        <section class="contact">
+            <h1 data-lang="contact.title">Contact Us</h1>
+            <form id="contact-form">
+                <label for="name" data-lang="contact.name">Name:</label>
+                <input type="text" id="name" name="name" required>
 
-        <section class="features">
-            <div class="feature">
-                <img src="/placeholder.svg?height=50&width=50" alt="Gameplay">
-                <h2 data-lang="features.gameplay">Exciting Gameplay</h2>
-                <p data-lang="features.gameplayDesc">Experience thrilling adventures and creative building.</p>
-            </div>
-            <div class="feature">
-                <img src="/placeholder.svg?height=50&width=50" alt="Community">
-                <h2 data-lang="features.community">Friendly Community</h2>
-                <p data-lang="features.communityDesc">Join a welcoming community of Minecraft enthusiasts.</p>
-            </div>
-            <div class="feature">
-                <img src="/placeholder.svg?height=50&width=50" alt="Performance">
-                <h2 data-lang="features.performance">High Performance</h2>
-                <p data-lang="features.performanceDesc">Enjoy smooth gameplay with our optimized server infrastructure.</p>
-            </div>
+                <label for="email" data-lang="contact.email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message" data-lang="contact.message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit" data-lang="contact.send">Send</button>
+            </form>
         </section>
     </main>
 

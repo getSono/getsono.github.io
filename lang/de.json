@@ -1,0 +1,52 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "gamemodes": "Spielmodi",
+        "contact": "Kontakt"
+    },
+    "hero": {
+        "title": "SonoNetzwerk",
+        "description": "Begleite das Abenteuer in unserer erstaunlichen Minecraft-Welt!",
+        "joinNow": "Jetzt beitreten"
+    },
+    "features": {
+        "gameplay": "Spannendes Gameplay",
+        "gameplayDesc": "Erlebe aufregende Abenteuer und kreatives Bauen.",
+        "community": "Freundliche Community",
+        "communityDesc": "Tritt einer einladenden Community von Minecraft-Enthusiasten bei.",
+        "performance": "Hohe Leistung",
+        "performanceDesc": "Genieße flüssiges Gameplay mit unserer optimierten Serverinfrastruktur."
+    },
+    "about": {
+        "title": "Über uns",
+        "description": "Wir sind leidenschaftliche Minecraft-Spieler, die sich der Schaffung des besten Servererlebnisses für unsere Community widmen.",
+        "historyTitle": "Unsere Geschichte",
+        "history2020": "Eröffnung eines Aternos-Servers für Freunde.",
+        "history2021": "Wir haben einen Server bei G-Portal gekauft.",
+        "history2022": "Nico, Gründer von MC Friens, hatte die Idee, einen Minecraft-Server zu eröffnen.",
+        "history2023": "Der Beginn von TeamFive.",
+        "history2024": "Wir benannten unseren Server in SonoNetzwerk um.",
+        "missionTitle": "Unsere Mission",
+        "missionDesc": "Eine unterhaltsame, sichere und kreative Umgebung für Minecraft-Spieler aus der ganzen Welt zu bieten."
+    },
+    "gamemodes": {
+        "title": "Unsere Spielmodi",
+        "survival": "Sono Attack",
+        "survivalDesc": "Klassisches Minecraft-Survival-Erlebnis mit ein paar Wendungen.",
+        "creative": "???",
+        "creativeDesc": "Kommt bald!",
+        "minigames": "???",
+        "minigamesDesc": "Kommt bald!"
+    },
+    "contact": {
+        "title": "Kontaktieren Sie uns",
+        "name": "Name:",
+        "email": "E-Mail:",
+        "message": "Nachricht:",
+        "send": "Senden"
+    },
+    "footer": {
+        "copyright": "© 2024 SonoNetzwerk. Alle Rechte vorbehalten."
+    }
+}
